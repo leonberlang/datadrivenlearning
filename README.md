@@ -1,2 +1,2 @@
 # Data Driven Learning [DDL]
-All exercises data driven learning
+All exercises and assignments of the programme Data Driven Learning.
